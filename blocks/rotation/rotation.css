@@ -6,6 +6,5 @@
 
 .header__square-pic, .kaufman__triangle {
 
-  transform: rotate(360deg);
-  animation: rotate 20s linear infinite;
+animation: rotate 20s linear infinite;
 }
